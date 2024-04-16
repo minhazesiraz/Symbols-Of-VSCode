@@ -34,7 +34,7 @@
   "contributes": {
     "iconThemes": [
       {
-        "id": "symbols-of-vscode",
+        "id": "Symbols-Of-VSCode",
         "label": "Symbols Of VSCode",
         "path": "symbols-of-vscode-theme.json"
       }
