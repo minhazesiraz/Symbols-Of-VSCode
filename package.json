@@ -25,11 +25,11 @@
     "Themes"
   ],
   "keywords": [
-    "icons",
-    "icon",
-    "theme",
-    "colorful",
-    "gradient"
+    "symbols",
+    "learnwithsumit",
+    "GitLens",
+    "Copilot",
+    "ChatGPT"
   ],
   "contributes": {
     "iconThemes": [
@@ -41,6 +41,6 @@
     ]
   },
   "bugs": {
-    "url": "https://github.com/minhazesiraz"
+    "url": "https://github.com/minhazesiraz/Symbols-Of-VSCode"
   }
 }
