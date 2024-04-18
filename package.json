@@ -2,7 +2,7 @@
   "name": "symbols-of-vscode",
   "displayName": "Symbols Of VSCode",
   "description": "Official VSCode Symbols Of Minhaz E Siraz!",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "icon": "logos/code_circle.png",
   "galleryBanner": {
 		"color": "#191925",
