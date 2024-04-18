@@ -2,8 +2,8 @@
   "name": "symbols-of-vscode",
   "displayName": "Symbols Of VSCode",
   "description": "Official VSCode Symbols Of Minhaz E Siraz!",
-  "version": "1.0.0",
-  "icon": "icons/symbols.png",
+  "version": "0.1.1",
+  "icon": "logos/code_circle.png",
   "galleryBanner": {
 		"color": "#191925",
 		"theme": "dark"
@@ -11,14 +11,14 @@
 	"publisher": "Minhaz E Siraz",
 	"author": {
 		"name": "Minhaz E Siraz",
-		"url": "https://github.com/minhazesiraz",
+		"url": "https://minhazesiraz.com",
 		"email": "minhazesiraz@gmail.com"
 	},
 	"repository": {
 		"url": "https://github.com/minhazesiraz/Symbols-Of-VSCode"
 	},
   "engines": {
-    "vscode": "^1.39.0"
+    "vscode": "^1.71.0"
   },
   "license": "FREE",
   "categories": [
@@ -34,9 +34,14 @@
   "contributes": {
     "iconThemes": [
       {
-        "id": "Symbols-Of-VSCode",
-        "label": "Symbols Of VSCode",
-        "path": "symbols-of-vscode-theme.json"
+        "id": "Symbols-Of-VSCode-Grayscale",
+        "label": "Symbols Of VSCode Grayscale",
+        "path": "symbols-of-vscode-theme-grayscale.json"
+      },
+      {
+        "id": "Symbols-Of-VSCode-Shades-Of-White",
+        "label": "Symbols Of VSCode Shades Of White",
+        "path": "symbols-of-vscode-theme-shades-of-white.json"
       }
     ]
   },

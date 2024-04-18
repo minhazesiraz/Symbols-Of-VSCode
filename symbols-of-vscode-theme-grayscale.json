@@ -2,106 +2,109 @@
   "hidesExplorerArrows": true,
   "iconDefinitions": {
     "_folder_dark": {
-      "iconPath": "./icons/folder_dark.svg"
+      "iconPath": "./grayscale/folder_dark.svg"
     },
     "_folder_open_dark": {
-      "iconPath": "./icons/folder-open_dark.svg"
+      "iconPath": "./grayscale/folder-open_dark.svg"
     },
     "_file_dark": {
-      "iconPath": "./icons/file_dark.svg"
+      "iconPath": "./grayscale/file_dark.svg"
     },
     "_settings_dark": {
-      "iconPath": "./icons/settings_dark.svg"
+      "iconPath": "./grayscale/settings_dark.svg"
     },
     "_prettier_dark": {
-      "iconPath": "./icons/prettier_dark.svg"
+      "iconPath": "./grayscale/prettier_dark.svg"
     },
     "_eslint_dark": {
-      "iconPath": "./icons/eslint_dark.svg"
+      "iconPath": "./grayscale/eslint_dark.svg"
     },
     "_code_dark": {
-      "iconPath": "./icons/code_dark.svg"
+      "iconPath": "./grayscale/code_dark.svg"
     },
     "_html_dark": {
-      "iconPath": "./icons/html_dark.svg"
+      "iconPath": "./grayscale/html_dark.svg"
     },
     "_hash_dark": {
-      "iconPath": "./icons/hash_dark.svg"
+      "iconPath": "./grayscale/hash_dark.svg"
     },
     "_book_dark": {
-      "iconPath": "./icons/book_dark.svg"
+      "iconPath": "./grayscale/book_dark.svg"
     },
     "_zip_dark": {
-      "iconPath": "./icons/zip_dark.svg"
+      "iconPath": "./grayscale/zip_dark.svg"
     },
     "_image_dark": {
-      "iconPath": "./icons/image_dark.svg"
+      "iconPath": "./grayscale/image_dark.svg"
     },
     "_database_dark": {
-      "iconPath": "./icons/database_dark.svg"
+      "iconPath": "./grayscale/database_dark.svg"
     },
     "_terminal_dark": {
-      "iconPath": "./icons/terminal_dark.svg"
+      "iconPath": "./grayscale/terminal_dark.svg"
     },
     "_lock_dark": {
-      "iconPath": "./icons/lock_dark.svg"
+      "iconPath": "./grayscale/lock_dark.svg"
     },
     "_info_dark": {
-      "iconPath": "./icons/info_dark.svg"
+      "iconPath": "./grayscale/info_dark.svg"
     },
     "_git_dark": {
-      "iconPath": "./icons/git_dark.svg"
+      "iconPath": "./grayscale/git_dark.svg"
     },
     "_folder_light": {
-      "iconPath": "./icons/folder_light.svg"
+      "iconPath": "./grayscale/folder_light.svg"
     },
     "_folder_open_light": {
-      "iconPath": "./icons/folder-open_light.svg"
+      "iconPath": "./grayscale/folder-open_light.svg"
     },
     "_file_light": {
-      "iconPath": "./icons/file_light.svg"
+      "iconPath": "./grayscale/file_light.svg"
     },
     "_settings_light": {
-      "iconPath": "./icons/settings_light.svg"
+      "iconPath": "./grayscale/settings_light.svg"
     },
     "_prettier_light": {
-      "iconPath": "./icons/prettier_light.svg"
+      "iconPath": "./grayscale/prettier_light.svg"
     },
     "_eslint_light": {
-      "iconPath": "./icons/eslint_light.svg"
+      "iconPath": "./grayscale/eslint_light.svg"
     },
     "_code_light": {
-      "iconPath": "./icons/code_light.svg"
+      "iconPath": "./grayscale/code_light.svg"
     },
     "_html_light": {
-      "iconPath": "./icons/html_light.svg"
+      "iconPath": "./grayscale/html_light.svg"
     },
     "_hash_light": {
-      "iconPath": "./icons/hash_light.svg"
+      "iconPath": "./grayscale/hash_light.svg"
     },
     "_book_light": {
-      "iconPath": "./icons/book_light.svg"
+      "iconPath": "./grayscale/book_light.svg"
     },
     "_zip_light": {
-      "iconPath": "./icons/zip_light.svg"
+      "iconPath": "./grayscale/zip_light.svg"
     },
     "_image_light": {
-      "iconPath": "./icons/image_light.svg"
+      "iconPath": "./grayscale/image_light.svg"
     },
     "_database_light": {
-      "iconPath": "./icons/database_light.svg"
+      "iconPath": "./grayscale/database_light.svg"
     },
     "_terminal_light": {
-      "iconPath": "./icons/terminal_light.svg"
+      "iconPath": "./grayscale/terminal_light.svg"
     },
     "_lock_light": {
-      "iconPath": "./icons/lock_light.svg"
+      "iconPath": "./grayscale/lock_light.svg"
     },
     "_info_light": {
-      "iconPath": "./icons/info_light.svg"
+      "iconPath": "./grayscale/info_light.svg"
     },
     "_git_light": {
-      "iconPath": "./icons/git_light.svg"
+      "iconPath": "./grayscale/git_light.svg"
+    },
+    "_javascriptreact_light": {
+      "iconPath": "./grayscale/javascriptreact_grayscale.svg"
     }
   },
   "folder": "_folder_dark",
@@ -143,7 +146,7 @@
     "html": "_code_dark",
     "properties": "_code_dark",
     "java": "_code_dark",
-    "javascriptreact": "_code_dark",
+    "javascriptreact": "_javascriptreact_light",
     "javascript": "_code_dark",
     "json": "_database_dark",
     "less": "_code_dark",
@@ -163,7 +166,7 @@
     "sql": "_database_dark",
     "swift": "_code_dark",
     "typescript": "_code_dark",
-    "typescriptreact": "_code_dark",
+    "typescriptreact": "_javascriptreact_light",
     "xml": "_code_dark",
     "yaml": "_code_dark"
   },
@@ -218,7 +221,7 @@
       "html": "_code_light",
       "properties": "_code_light",
       "java": "_code_light",
-      "javascriptreact": "_code_light",
+      "javascriptreact": "_javascriptreact_light",
       "javascript": "_code_light",
       "json": "_database_light",
       "less": "_code_light",
@@ -238,7 +241,7 @@
       "sql": "_database_light",
       "swift": "_code_light",
       "typescript": "_code_light",
-      "typescriptreact": "_code_light",
+      "typescriptreact": "_javascriptreact_light",
       "xml": "_code_light",
       "yaml": "_code_light"
     },

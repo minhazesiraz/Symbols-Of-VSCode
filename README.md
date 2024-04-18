@@ -2,7 +2,7 @@
 
 Official VSCode Symbols Of **Minhaz E Siraz** - Inspired by  [Khairul Istiyak](https://github.com/khairulistiyak)
 
-![alt text](/screenshots/images.png)
+![alt text](/screenshots/alt_text_grayscale.png)
 
 # How to Install the "Symbols Of VSCode" Extension.
 
@@ -16,4 +16,4 @@ Official VSCode Symbols Of **Minhaz E Siraz** - Inspired by  [Khairul Istiyak](h
 
 # License
 
-[MIT License](https://github.com/minhazesiraz/Symbols-Of-VSCode)
+[MIT](https://github.com/minhazesiraz/Symbols-Of-VSCode)
