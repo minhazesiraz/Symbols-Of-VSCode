@@ -1,6 +1,6 @@
 # Symbols Of VSCode
 
-Official VSCode Symbols Of **Minhaz E Siraz** - Inspired by  [Khairul Istiyak](https://github.com/khairulistiyak)
+Official VSCode Symbols Of **Minhaz E Siraz** - Inspired by  [Khairul Istiyak](https://github.com/khairulistiyak).
 
 ![alt text](/screenshots/alt_text_grayscale.png)
 

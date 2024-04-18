@@ -2,13 +2,13 @@
   "name": "symbols-of-vscode",
   "displayName": "Symbols Of VSCode",
   "description": "Official VSCode Symbols Of Minhaz E Siraz!",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "icon": "logos/code_circle.png",
   "galleryBanner": {
 		"color": "#191925",
 		"theme": "dark"
 	},
-	"publisher": "Minhaz E Siraz",
+	"publisher": "MinhazESiraz",
 	"author": {
 		"name": "Minhaz E Siraz",
 		"url": "https://minhazesiraz.com",
@@ -26,10 +26,7 @@
   ],
   "keywords": [
     "symbols",
-    "learnwithsumit",
-    "GitLens",
-    "Copilot",
-    "ChatGPT"
+    "khairulistiyak"
   ],
   "contributes": {
     "iconThemes": [
