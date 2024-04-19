@@ -2,109 +2,106 @@
   "hidesExplorerArrows": true,
   "iconDefinitions": {
     "_folder_dark": {
-      "iconPath": "./grayscale/folder_dark.svg"
+      "iconPath": "./shadesofgray/folder_dark.svg"
     },
     "_folder_open_dark": {
-      "iconPath": "./grayscale/folder-open_dark.svg"
+      "iconPath": "./shadesofgray/folder-open_dark.svg"
     },
     "_file_dark": {
-      "iconPath": "./grayscale/file_dark.svg"
+      "iconPath": "./shadesofgray/file_dark.svg"
     },
     "_settings_dark": {
-      "iconPath": "./grayscale/settings_dark.svg"
+      "iconPath": "./shadesofgray/settings_dark.svg"
     },
     "_prettier_dark": {
-      "iconPath": "./grayscale/prettier_dark.svg"
+      "iconPath": "./shadesofgray/prettier_dark.svg"
     },
     "_eslint_dark": {
-      "iconPath": "./grayscale/eslint_dark.svg"
+      "iconPath": "./shadesofgray/eslint_dark.svg"
     },
     "_code_dark": {
-      "iconPath": "./grayscale/code_dark.svg"
+      "iconPath": "./shadesofgray/code_dark.svg"
     },
     "_html_dark": {
-      "iconPath": "./grayscale/html_dark.svg"
+      "iconPath": "./shadesofgray/html_dark.svg"
     },
     "_hash_dark": {
-      "iconPath": "./grayscale/hash_dark.svg"
+      "iconPath": "./shadesofgray/hash_dark.svg"
     },
     "_book_dark": {
-      "iconPath": "./grayscale/book_dark.svg"
+      "iconPath": "./shadesofgray/book_dark.svg"
     },
     "_zip_dark": {
-      "iconPath": "./grayscale/zip_dark.svg"
+      "iconPath": "./shadesofgray/zip_dark.svg"
     },
     "_image_dark": {
-      "iconPath": "./grayscale/image_dark.svg"
+      "iconPath": "./shadesofgray/image_dark.svg"
     },
     "_database_dark": {
-      "iconPath": "./grayscale/database_dark.svg"
+      "iconPath": "./shadesofgray/database_dark.svg"
     },
     "_terminal_dark": {
-      "iconPath": "./grayscale/terminal_dark.svg"
+      "iconPath": "./shadesofgray/terminal_dark.svg"
     },
     "_lock_dark": {
-      "iconPath": "./grayscale/lock_dark.svg"
+      "iconPath": "./shadesofgray/lock_dark.svg"
     },
     "_info_dark": {
-      "iconPath": "./grayscale/info_dark.svg"
+      "iconPath": "./shadesofgray/info_dark.svg"
     },
     "_git_dark": {
-      "iconPath": "./grayscale/git_dark.svg"
+      "iconPath": "./shadesofgray/git_dark.svg"
     },
     "_folder_light": {
-      "iconPath": "./grayscale/folder_light.svg"
+      "iconPath": "./shadesofgray/folder_light.svg"
     },
     "_folder_open_light": {
-      "iconPath": "./grayscale/folder-open_light.svg"
+      "iconPath": "./shadesofgray/folder-open_light.svg"
     },
     "_file_light": {
-      "iconPath": "./grayscale/file_light.svg"
+      "iconPath": "./shadesofgray/file_light.svg"
     },
     "_settings_light": {
-      "iconPath": "./grayscale/settings_light.svg"
+      "iconPath": "./shadesofgray/settings_light.svg"
     },
     "_prettier_light": {
-      "iconPath": "./grayscale/prettier_light.svg"
+      "iconPath": "./shadesofgray/prettier_light.svg"
     },
     "_eslint_light": {
-      "iconPath": "./grayscale/eslint_light.svg"
+      "iconPath": "./shadesofgray/eslint_light.svg"
     },
     "_code_light": {
-      "iconPath": "./grayscale/code_light.svg"
+      "iconPath": "./shadesofgray/code_light.svg"
     },
     "_html_light": {
-      "iconPath": "./grayscale/html_light.svg"
+      "iconPath": "./shadesofgray/html_light.svg"
     },
     "_hash_light": {
-      "iconPath": "./grayscale/hash_light.svg"
+      "iconPath": "./shadesofgray/hash_light.svg"
     },
     "_book_light": {
-      "iconPath": "./grayscale/book_light.svg"
+      "iconPath": "./shadesofgray/book_light.svg"
     },
     "_zip_light": {
-      "iconPath": "./grayscale/zip_light.svg"
+      "iconPath": "./shadesofgray/zip_light.svg"
     },
     "_image_light": {
-      "iconPath": "./grayscale/image_light.svg"
+      "iconPath": "./shadesofgray/image_light.svg"
     },
     "_database_light": {
-      "iconPath": "./grayscale/database_light.svg"
+      "iconPath": "./shadesofgray/database_light.svg"
     },
     "_terminal_light": {
-      "iconPath": "./grayscale/terminal_light.svg"
+      "iconPath": "./shadesofgray/terminal_light.svg"
     },
     "_lock_light": {
-      "iconPath": "./grayscale/lock_light.svg"
+      "iconPath": "./shadesofgray/lock_light.svg"
     },
     "_info_light": {
-      "iconPath": "./grayscale/info_light.svg"
+      "iconPath": "./shadesofgray/info_light.svg"
     },
     "_git_light": {
-      "iconPath": "./grayscale/git_light.svg"
-    },
-    "_javascriptreact_light": {
-      "iconPath": "./grayscale/javascriptreact_grayscale.svg"
+      "iconPath": "./shadesofgray/git_light.svg"
     }
   },
   "folder": "_folder_dark",

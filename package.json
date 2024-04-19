@@ -1,8 +1,8 @@
 {
   "name": "symbols-of-vscode",
-  "displayName": "Symbols Of VSCode",
+  "displayName": "Symbols of VSCode",
   "description": "Official VSCode Symbols Of Minhaz E Siraz!",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "icon": "logos/code_circle.png",
   "galleryBanner": {
 		"color": "#191925",
@@ -31,14 +31,14 @@
   "contributes": {
     "iconThemes": [
       {
-        "id": "Symbols-Of-VSCode-Grayscale",
-        "label": "Symbols Of VSCode Grayscale",
-        "path": "symbols-of-vscode-theme-grayscale.json"
+        "id": "Symbols of VSCode - Shades of Gray",
+        "label": "Symbols of VSCode - Shades of Gray",
+        "path": "shades-of-gray.json"
       },
       {
-        "id": "Symbols-Of-VSCode-Shades-Of-White",
-        "label": "Symbols Of VSCode Shades Of White",
-        "path": "symbols-of-vscode-theme-shades-of-white.json"
+        "id": "Symbols of VSCode - Shades of White",
+        "label": "Symbols Of VSCode - Shades of White",
+        "path": "shades-of-white.json"
       }
     ]
   },
